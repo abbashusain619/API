@@ -89,7 +89,7 @@ const handleSubmit = async (e) => {
 
   //fetch data from server -> AI's response
 
-  const response = await fetch('https://api-jxsy.onrender.com', {
+  const response = await fetch('https://api-h6df.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
