@@ -15,7 +15,7 @@ body {
 
 #app {
   max-width: 100vw;
-  height: 89vh;
+  min-height: 100vh;
   background: rgba(52, 53, 65, 0.4);
 
   display: flex;
@@ -217,7 +217,7 @@ form img {
 /* End Navigation */
 /* banner start */
 #banner{
-  min-height: 89vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
